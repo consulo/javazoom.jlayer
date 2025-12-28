@@ -11,7 +11,7 @@
 
     <groupId>consulo.internal.sound</groupId>
     <artifactId>javazoom.jlayer</artifactId>
-    <version>3.0</version>
+    <version>3.1</version>
     <packaging>jar</packaging>
 
     <repositories>

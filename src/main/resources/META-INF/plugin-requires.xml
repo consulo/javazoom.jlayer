@@ -1,0 +1,5 @@
+<consulo-plugin-requires>
+    <plugins>
+        <plugin>consulo.desktop.awt</plugin>
+    </plugins>
+</consulo-plugin-requires>
